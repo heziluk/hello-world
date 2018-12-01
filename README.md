@@ -8,4 +8,4 @@
 <br/>
 --2--
 <br/>
-时间2018-12-1 19:45我尝试将readme-edits分支合并到master分支，成功地将readme-edits分支下readme.md文件的内容同步到master中。
+2018-12-1 19:45我尝试将readme-edits分支合并到master分支，成功地将readme-edits分支下readme.md文件的内容同步到master中。
